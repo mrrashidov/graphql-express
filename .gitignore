@@ -1,0 +1,6 @@
+backend/node_modules
+node_modules
+backend/yarn.lock
+backend/src/config/config.json
+backend/.env
+.idea

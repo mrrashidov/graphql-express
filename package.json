@@ -1,0 +1,19 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "author": "Shoxrux Rashidov",
+  "license": "MIT",
+  "scripts": {
+    "install-steps": "yarn install && cd backend && yarn install",
+    "start:back": "cd backend && yarn start",
+    "start": "yarn start:back"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoxruxrashidov/graphql-crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shoxruxrashidov/graphql-crud/issues"
+  },
+  "homepage": "https://github.com/shoxruxrashidov/graphql-crud#readme"
+}
